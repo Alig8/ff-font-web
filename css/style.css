@@ -1,0 +1,13 @@
+* {
+    font-family: fffont;
+}
+
+@font-face {
+    src: url(/fonts/GFF-Latin-CdMedium.ttf);                                
+    font-family: fffont;
+}
+
+.test {
+    font-size: 2rem;
+    padding: 25%;
+}
